@@ -76,3 +76,26 @@ button {
     border: 0;
     border-radius: 6px;
 }
+
+.images-container {
+    display: flex;
+    justify-content: center;
+    padding: 4rem;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    width: 11rem;
+    justify-content: center;
+    text-align: center;
+}
+
+figcaption {
+    color: rgb(63, 63, 63);
+}
+
+figure img {
+    border-radius: 10px;
+    border: #3882F6 solid 3px
+}
