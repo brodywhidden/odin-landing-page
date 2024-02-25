@@ -113,7 +113,7 @@ figure img {
 }
 
 .signature {
-    text-align: right;
+    padding-left: 25rem;
     font-style: normal;
     font-weight: 700;
 }
